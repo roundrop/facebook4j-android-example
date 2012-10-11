@@ -1,0 +1,13 @@
+.DS_Store
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+local.properties
+.settings/
+target/
+.classpath
+.project
+facebook4j.properties

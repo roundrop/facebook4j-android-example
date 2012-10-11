@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="facebook4j.examples.android" android:versionCode="1" android:versionName="1.0.0-SNAPSHOT">
+
+  <uses-permission android:name="android.permission.INTERNET" />
+  <application android:icon="@drawable/icon" android:label="@string/app_name" android:debuggable="true" android:permission="android.permission.INTERNET">
+    <activity android:name=".NewsFeedActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:name=".PostDetailActivity">
+    </activity>
+    <activity android:name="facebook4j.examples.android.OAuthActivity">
+    </activity>
+  </application>
+
+</manifest>
+
