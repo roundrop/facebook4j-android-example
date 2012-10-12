@@ -1,10 +1,13 @@
 # Facebook4J for Android Example
 An example of using [Facebook4J](https://github.com/roundrop/facebook4j) in Android app.
+
 This example contains OAuth Authentication and Simple News Feed Reader.
+
 Tested on HTC EVO (Android 2.3.4)
 
 ## Development Environment
 This project requires set up of the Android SDK, Maven, Eclipse, and Android Development Tools(ADT) for Eclipse.
+
 Import this project to Eclipse, and convert to Maven Project (Right-click on project > Configure > Convert to Maven Projects).
 
 ## How To Run
