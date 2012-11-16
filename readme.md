@@ -12,10 +12,9 @@ Import this project to Eclipse, and convert to Maven Project (Right-click on pro
 
 ## How To Run
 1. Create App in Facebook Developers Site
-2. Get App ID and App Secret
-3. Rename facebook4j.properties-template to facebook4j.properties on src/main/resources directory
-4. Set 'oauth.appId' and 'oauth.appSecret'
-5. Run as Android Application
-
-## License
-Apache License 2.0.
+2. Input "http://facebook4j.org" to Site URL (NOT Native Android App!)
+![Settings Image](https://github.com/roundrop/facebook4j-android-example/blob/master/facebook_app_setting.png?raw=true)
+3. Get App ID and App Secret
+4. Rename facebook4j.properties-template to facebook4j.properties on src/main/resources directory
+5. Set 'oauth.appId' and 'oauth.appSecret'
+6. Run as Android Application
